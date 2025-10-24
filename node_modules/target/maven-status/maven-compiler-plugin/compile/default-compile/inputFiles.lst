@@ -1,0 +1,10 @@
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/CorsConfig.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/TiendaApplication.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/repository/UsuarioRepository.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/repository/ProductoRepository.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/exception/GlobalExceptionHandler.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/model/Producto.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/controller/ProductoController.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/controller/UsuarioController.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/model/Usuario.java
+/home/javier/tienda-backend/src/main/java/com/tuempresa/tienda/controller/HolaMundoController.java
