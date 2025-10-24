@@ -1,0 +1,90 @@
+/* Fondo general */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f2f2f2; /* gris claro */
+  color: #333; /* texto oscuro */
+}
+
+/* Barra superior */
+nav {
+  background-color: #2c2f33;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav h1 {
+  color: #ffffff;
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+/* Contenedor principal */
+.container {
+  max-width: 900px;
+  margin: 3rem auto;
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos */
+h2, h3 {
+  color: #222;
+}
+
+/* Botones */
+button {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 0.5rem 1rem;
+  margin: 0.3rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Tablas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  padding: 0.8rem;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #e6e6e6;
+  color: #222;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Formularios */
+input {
+  width: 100%;
+  padding: 0.6rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Pie de página opcional */
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  color: #555;
+}
